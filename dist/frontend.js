@@ -1,0 +1,1 @@
+!function(){"use strict";const t={color:"0,0,0",pointColor:"0,0,0",opacity:.5,count:99,zIndex:"0"},e=document.getElementsByClassName("particles");for(let o=0;o<e.length;o++){const n=e[o],s=JSON.parse(n.dataset.options);new CanvasNest(n,{...t,...s})}}();
